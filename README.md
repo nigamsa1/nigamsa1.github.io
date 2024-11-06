@@ -6,10 +6,12 @@
 Sanya Nigam
 
 ## Format of Your Score Files
-The score files are formatted in xml and I used ChatGPT to create the actual score file itself.
+The score files are formatted in xml and I created the actual score files itself with the help of ChatGPT to create some of the tune.
 
 ## Score File Used
 Link to Score file: https://drive.google.com/file/d/1m_sMMTxpl6MgghZYtGipn9aaH7dtPH89/view?usp=sharing
+
+Link to short audio score file: https://drive.google.com/file/d/1DKStPVH5t9FtDkFv12PrRyioapFhoyh1/view?usp=sharing
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
