@@ -9,6 +9,7 @@ Sanya Nigam
 The score files are formatted in xml and I used ChatGPT to create the actual score file itself.
 
 ## Score File Used
+Link to Score file: https://drive.google.com/file/d/1m_sMMTxpl6MgghZYtGipn9aaH7dtPH89/view?usp=sharing
 <?xml version="1.0" encoding="utf-8"?>
 <score bpm="120" beatspermeasure="2">
     <instrument instrument="WaveTable">
