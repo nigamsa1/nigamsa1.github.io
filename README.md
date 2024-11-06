@@ -1,6 +1,7 @@
 ### nigamsa1.github.io
 
-# Project 1: A Multi-Component Music Synthesizer
+## Project 1: A Multi-Component Music Synthesizer
+# Waves of time
 
 ## Group Members
 Sanya Nigam
